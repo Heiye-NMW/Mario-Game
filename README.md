@@ -25,7 +25,7 @@
 ###### **使用步骤**
 
 1. 从 [https://github.com/Heiye-NMW/Mario-Game/releases/](https://github.com/Heiye-NMW/Mario-Game/releases/) 下载`Code`或者`Mario Game`
-2. 使用`易语言`打开 `超级玛丽.e`
+2. 使用易语言打开 `超级玛丽.e`
 3. 点击运行即可
 
 ### 文件目录说明
