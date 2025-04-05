@@ -21,7 +21,7 @@
 
 ###### **使用步骤**
 
-1. 从 [Github](https://github.com/Heiye-NMW/Mario-Game/releases/) 或 [The Web](https://mariogame.heiye.xin/marioGame.zip)下载`Code`或者`Mario Game`
+1. 从 [The Web](https://mariogame.heiye.xin/marioGame.zip) 下载`Code`或者`Mario Game`
 2. 使用易语言打开 `超级玛丽.e`
 3. 点击运行即可
 
